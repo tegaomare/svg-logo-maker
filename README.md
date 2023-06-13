@@ -25,6 +25,12 @@ npm i -g svg-logo-maker
 6. The logo will be saved as logo.svg.
 7. Open logo.svg in a browser to view the generated logo.
 
+## Credits
+
+https://www.npmjs.com/package/svg-logo-maker
+
+Columbia University Coding Bootcamp
+
 ## License
 
 MIT License

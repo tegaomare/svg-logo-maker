@@ -17,7 +17,13 @@ npm i -g svg-logo-maker
 
 ## Usage
 
-N/A
+1. Run the command-line application: svg-logo-maker.
+2. Enter up to three characters for the logo's text.
+3. Specify the text color (keyword or hexadecimal).
+4. Choose a shape from the provided options.
+5. Enter the color for the shape (keyword or hexadecimal).
+6. The logo will be saved as logo.svg.
+7. Open logo.svg in a browser to view the generated logo.
 
 ## License
 
@@ -41,5 +47,3 @@ Run npm run test
 GitHub Username: tegaomare
 
 https://github.com/tegaomare
-
-Feel free to also reach out to me via email at N/A.

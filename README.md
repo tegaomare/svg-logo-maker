@@ -27,7 +27,10 @@ MIT License
 
 ## How to Contribute
 
-1. Create your feature branch: git checkout -b
+1. Create your feature branch: git checkout -b my -new-feature
+2. Commit your changes: git commit -m "comment"
+3. Push to the branch: git push origin my-new-feature
+4. Submit a pull request
 
 ## Tests
 

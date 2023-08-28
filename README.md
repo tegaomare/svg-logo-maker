@@ -1,5 +1,5 @@
 # SVG Logo Maker
-
+<img src="./images/svgimg.png" href="svg image">
 ## Description
 
 The SVG Logo Maker is a command-line application designed to create custom logos in SVG format. SVG (Scalable Vector Graphics) is a widely supported vector-based image format that allows for high-quality scaling without loss of clarity.

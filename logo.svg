@@ -1,6 +1,6 @@
 <svg version="1.1"
 width="300" height="200"
 xmlns="http://www.w3.org/2000/svg">
-<circle cx="150" cy="100" r="100" fill="blue"/>
-<text font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="50px" dominant-baseline="middle" text-anchor="middle" x="150" y="105" fill='white' >YES</text>
+<polygon points="150 05, 260 170, 40 170, 150" fill="blue"/>
+<text font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="50px" dominant-baseline="middle" text-anchor="middle" x="150" y="105" fill='red' >YES</text>
 </svg>
